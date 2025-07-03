@@ -1,6 +1,6 @@
-# SmartSync Microservices Architecture
+# Shop_on_cloud Microservices Architecture
 
-This is a full-stack microservices-based backend for SmartSync — a contact management application.
+This is a full-stack microservices-based backend for shop_on_cloud — a online shopapplication.
 
 ## Services:
 - `auth-service`: Authentication & JWT
